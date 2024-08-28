@@ -20,3 +20,14 @@
 # a=input()
 # century(a)
 
+# -----------------------------------------------
+
+# from datetime import datetime as dt, timedelta
+# def aftermonth(a):
+#     year=int(a[0])
+#     months=int(a[1])
+#     new = dt(year,2,1)
+#     new2=new+timedelta(days=30*months)
+#     print(new2.year)
+# a=input().split()
+# aftermonth(a)
