@@ -12,3 +12,11 @@
 
 # ---------------------------------------------
 
+# import datetime
+# def century(a):
+#     year=int(a)
+#     new=datetime.date(year,1,1)
+#     print((new.year-1)//100+1)
+# a=input()
+# century(a)
+
