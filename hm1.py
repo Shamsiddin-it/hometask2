@@ -31,3 +31,14 @@
 #     print(new2.year)
 # a=input().split()
 # aftermonth(a)
+
+# ------------------------------------------------
+
+# import datetime
+# def conver(a):
+#     month,day,year=map(int, a)
+#     new=datetime.date(year,month,day)
+#     new2=f"{new.year}{new.day}{new.month}"
+#     print(new2)
+# a=input().split('/')
+# conver(a)
