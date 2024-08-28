@@ -42,3 +42,13 @@
 #     print(new2)
 # a=input().split('/')
 # conver(a)
+
+# ---------------------------------------------------
+
+# import datetime
+# def milkcoffe(a):
+#     year,month,day=map(int, a)
+#     new=datetime.date(year,month+1,day)
+#     print(new.day==24 and new.month==12) 
+# a=input().split()
+# milkcoffe(a)
