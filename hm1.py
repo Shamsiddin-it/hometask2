@@ -52,3 +52,14 @@
 #     print(new.day==24 and new.month==12) 
 # a=input().split()
 # milkcoffe(a)
+
+# ---------------------------------------------------
+
+# from datetime import datetime
+# def getday(a):
+#     month,day,year=map(int, a)
+#     new=datetime(year,month,day)
+#     new2=datetime.strftime(new, "%A")
+#     print(new2)
+# a=input().split('/')
+# getday(a)
